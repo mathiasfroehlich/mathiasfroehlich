@@ -4,4 +4,8 @@
 - web apps
 - dotfiles
 - stock analysis tools
+- dotnet
+- go
+- User Experiences
+- User Interfaces
 - ...
