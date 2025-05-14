@@ -8,14 +8,14 @@ I’m also inspired by the clarity and restraint of classic desktop design — b
 
 
 
-## I like to work with:
+### I like to work with:
 - TypeScript / React / Blazor  
 - .NET / Go / PostgreSQL  
 - Interfaces that feel intuitive and considered
 
 
 
-## Projects (selected)
+### Projects (selected)
 - **Kredit-Prognose Tool**  
   A simple, visual way to track your loan repayment journey.
 
@@ -30,13 +30,13 @@ I’m also inspired by the clarity and restraint of classic desktop design — b
 
 
 
-## Notes
+### Notes
 - Some projects are small experiments; others grow at their own pace.  
 - All are crafted to teach me something new.
 
 
 
-## Contact
+### Contact
 - GitHub: [@mathiasfroehlich](https://github.com/mathiasfroehlich)  
 
 
