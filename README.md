@@ -47,3 +47,8 @@ I’m also inspired by the clarity and restraint of classic desktop design — b
 
 
 *Software-Entwickler aus Innsbruck mit Leidenschaft für nutzerorientierte, klare und durchdachte Lösungen.*
+
+            /\
+  /\       /  \       /\
+ /  \     /    \     /  \
+/    \   /      \   /    \
