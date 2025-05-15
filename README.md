@@ -27,7 +27,7 @@ I’m also inspired by the clarity and restraint of classic desktop design — b
 - **Real Estate Dashboard**  
   A concise, data-driven view of housing prices over time.
 
-- **Vintage Desktop Dotfiles**  *(in progress)* 
+- **Vintage Desktop Dotfiles**  *(in progress)*
   A personal setup that fuses timeless interface principles with today’s developer workflows.
 
 
