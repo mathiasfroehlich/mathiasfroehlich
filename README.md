@@ -2,22 +2,23 @@
 _Innsbruck, Austria_
 
 I enjoy crafting small, purpose-driven tools — with a focus on clear logic and well-designed interfaces.  
-This space is my personal lab for side projects, experiments, and ideas in motion.
 
 I’m also inspired by the clarity and restraint of classic desktop design — blending those first principles with modern tooling and aesthetics.
 
 
+---
 
 
-## I like to work with:
+### I like to work with:
 - TypeScript / React / Blazor  
 - .NET / Go / PostgreSQL  
 - Interfaces that feel intuitive and considered
 
 
+---
 
 
-## Projects (selected)
+### Projects (selected)
 - **Private Finance Visualization Tool**  *(in progress)* 
   A simple, visual way to track your loan repayment journey.
 
@@ -31,16 +32,18 @@ I’m also inspired by the clarity and restraint of classic desktop design — b
   A personal setup that fuses timeless interface principles with today’s developer workflows.
 
 
+---
 
 
-## Notes
+### Notes
 - Some projects are small experiments; others grow at their own pace.  
 - All are crafted to teach me something new.
 
 
+---
 
 
-## Contact
+### Contact
 - GitHub: [@mathiasfroehlich](https://github.com/mathiasfroehlich)  
 
 
