@@ -18,7 +18,7 @@ I’m also inspired by the clarity and restraint of classic desktop design — b
 
 
 ## Projects (selected)
-- **Kredit-Prognose Tool**  *(in progress)* 
+- **Private Finance Visualization Tool**  *(in progress)* 
   A simple, visual way to track your loan repayment journey.
 
 - **Guitar Scale Generator**  
