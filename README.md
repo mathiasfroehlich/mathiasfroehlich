@@ -19,16 +19,8 @@ I’m also inspired by the clarity and restraint of classic desktop design — b
 
 
 ### Projects (selected)
-- **Private Finance Visualization Tool**  *(in progress)* 
-  A simple, visual way to track your loan repayment journey.
 
-- **Guitar Scale Generator**  
-  A hands-on fretboard calculator that outputs laser-ready templates.
-
-- **Real Estate Dashboard**  
-  A concise, data-driven view of housing prices over time.
-
-- **Vintage Desktop Dotfiles**  *(in progress)*
+- **Intend Driven Desktop Dotfiles**  *(in progress)*
   A personal setup that fuses timeless interface principles with today’s developer workflows.
 
 
